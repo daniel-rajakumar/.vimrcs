@@ -1,4 +1,4 @@
-VIM binds ❤
+VIM binds WITH NON-QWERTY LAYOUT ❤
 
 ON Visual Studio, VSCode, and all idea editors (tested in pycharm, android studio)
 
