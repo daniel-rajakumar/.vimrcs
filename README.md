@@ -13,9 +13,9 @@ Basically use qwerty layout when in {
 }
 
 
-| File | Editor | 
-| --- | --- |
-| .vimrc | Vim |
-| .ideavimrc | Idea editors |
-| .vsvimrc | Visual Studio |
-| settings.json | VSCode |
+| File | Editor | Extensions/Plugins | 
+| --- | --- | --- |
+| .vimrc | Vim | ... |
+| .ideavimrc | Idea editors | https://github.com/JetBrains/ideavim |
+| .vsvimrc | Visual Studio | https://github.com/VsVim/VsVim |
+| settings.json | VSCode | https://github.com/VSCodeVim/Vim |
