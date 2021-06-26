@@ -1,16 +1,16 @@
 # VIM binds WITH NON-QWERTY LAYOUT ❤
 
-## On Vim, Visual Studio, VSCode, and all idea editors (tested on pycharm, android studio)
+## On Vim, Visual Studio, VSCode, and all Idea editors (tested on PyCharm, Android Studio, and IntelliJ)
 
-### Basically use qwerty layout when in {
+### Basically use QWERTY layout when in {
 
-* normal mode
-* visual mode
-* pending mode
+* Normal Mode
+* Visual Mode
+* Pending Mode
   
 ### } else use colemak-dh in {
 
-* insest mode
+* Insest Mode
 
 ### }
 
