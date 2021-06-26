@@ -1,6 +1,6 @@
 VIM binds ❤
 
-ON Visual Studio and all idea editors (tested in pycharm, android studio)
+ON Visual Studio, VSCode, and all idea editors (tested in pycharm, android studio)
 
 Basically use qwerty layout when in {
   * normal mode
@@ -12,3 +12,10 @@ Basically use qwerty layout when in {
    
 }
 
+
+| File | Editor | 
+| --- | --- |
+| .vimrc | Vim |
+| .ideavimrc | Idea editors |
+| .vsvimrc | Visual Studio |
+| settings.json | VSCode |
