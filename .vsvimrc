@@ -1,0 +1,10 @@
+source ~/.vimrc
+
+" nnoremap < :vsc Edit.DecreaseLineIndent<CR>
+" nnoremap > :vsc Edit.IncreaseLineIndent<CR>
+
+" xnoremap < :vsc Edit.DecreaseLineIndent<CR>
+" xnoremap > :vsc Edit.IncreaseLineIndent<CR>
+
+" onoremap < :vsc Edit.DecreaseLineIndent<CR>
+" onoremap > :vsc Edit.IncreaseLineIndent<CR>
