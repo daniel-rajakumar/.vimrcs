@@ -1,6 +1,6 @@
 # VIM binds WITH NON-QWERTY LAYOUT ❤
 
-On Vim, Visual Studio, VSCode, and all idea editors (tested in pycharm, android studio).
+On Vim, Visual Studio, VSCode, and all idea editors (tested on pycharm, android studio).
 
 Basically use qwerty layout when in {
 
