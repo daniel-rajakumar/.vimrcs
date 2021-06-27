@@ -58,7 +58,10 @@
         { "before": ["V"], "after": ["V"] },
         { "before": ["Z"], "after": ["B"] },
         { "before": ["K"], "after": ["N"] },  
-        { "before": ["H"], "after": ["M"] }
+        { "before": ["H"], "after": ["M"] },
+
+        { "before": [ "l" ], "after": [], "commands": [ { "command": "undo" } ] },
+        { "before": [ "L" ], "after": [], "commands": [ { "command": "redo" } ] }
     ], 
 
     "vim.visualModeKeyBindingsNonRecursive": [
